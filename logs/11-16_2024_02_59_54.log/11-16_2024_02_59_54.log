@@ -1,0 +1,18 @@
+[2024-11-16 02:59:54,469] 18 root - INFO - Successfully initialized the model: llama3.2
+[2024-11-16 02:59:54,510] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-11-16 02:59:54,512] 97 werkzeug - INFO -  * Debugger PIN: 104-731-527
+[2024-11-16 03:00:26,379] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 03:00:26] "[33mGET /predictdata HTTP/1.1[0m" 404 -
+[2024-11-16 03:00:26,645] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 03:00:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-11-16 03:00:29,917] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 03:00:29] "GET / HTTP/1.1" 200 -
+[2024-11-16 03:00:30,263] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 03:00:30] "[33mGET /index.css HTTP/1.1[0m" 404 -
+[2024-11-16 03:00:30,264] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 03:00:30] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[2024-11-16 03:03:13,484] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 03:03:13] "[33mGET /index.css HTTP/1.1[0m" 404 -
+[2024-11-16 03:03:17,278] 23 root - ERROR - Error rendering template: index.html
+[2024-11-16 03:03:17,281] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 03:03:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-11-16 03:03:20,499] 23 root - ERROR - Error rendering template: index.html
+[2024-11-16 03:03:20,499] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 03:03:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-11-16 03:03:21,286] 23 root - ERROR - Error rendering template: index.html
+[2024-11-16 03:03:21,286] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 03:03:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-11-16 03:03:22,281] 23 root - ERROR - Error rendering template: index.html
+[2024-11-16 03:03:22,281] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 03:03:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-11-16 03:03:58,650] 97 werkzeug - INFO -  * Detected change in 'D:\\Langchain Projects\\Chatbot for Daraz.pk\\app.py', reloading

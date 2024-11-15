@@ -1,0 +1,17 @@
+[2024-11-16 02:48:53,497] 18 root - INFO - Successfully initialized the model: llama3.2
+[2024-11-16 02:48:53,516] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-11-16 02:48:53,517] 97 werkzeug - INFO -  * Debugger PIN: 104-731-527
+[2024-11-16 02:49:03,953] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 02:49:03] "GET / HTTP/1.1" 200 -
+[2024-11-16 02:49:03,976] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 02:49:03] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2024-11-16 02:49:03,978] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 02:49:03] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+[2024-11-16 02:49:04,045] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 02:49:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-11-16 02:49:35,812] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 02:49:35] "[31m[1mGET /chat HTTP/1.1[0m" 405 -
+[2024-11-16 02:50:50,930] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 02:50:50] "GET / HTTP/1.1" 200 -
+[2024-11-16 02:50:50,961] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 02:50:50] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2024-11-16 02:50:50,963] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 02:50:50] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+[2024-11-16 02:50:53,141] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 02:50:53] "GET / HTTP/1.1" 200 -
+[2024-11-16 02:50:53,161] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 02:50:53] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2024-11-16 02:50:53,163] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 02:50:53] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+[2024-11-16 02:50:54,155] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 02:50:54] "GET / HTTP/1.1" 200 -
+[2024-11-16 02:50:54,173] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 02:50:54] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2024-11-16 02:50:54,174] 97 werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 02:50:54] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -

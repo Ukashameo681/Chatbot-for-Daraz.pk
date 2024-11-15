@@ -1,0 +1,9 @@
+[2024-11-16 02:36:03,946] 18 root - INFO - Successfully initialized the model: llama3.2
+[2024-11-16 02:36:04,008] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2024-11-16 02:36:04,008] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2024-11-16 02:36:04,009] 97 werkzeug - INFO -  * Restarting with stat
+[2024-11-16 02:39:41,342] 97 werkzeug - INFO -  * Restarting with stat
+[2024-11-16 02:42:03,832] 97 werkzeug - INFO -  * Restarting with stat
+[2024-11-16 02:46:03,312] 97 werkzeug - INFO -  * Restarting with stat
+[2024-11-16 02:48:51,701] 97 werkzeug - INFO -  * Restarting with stat

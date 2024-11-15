@@ -1,0 +1,5 @@
+[2024-11-16 01:40:29,782] 13 root - INFO - Daraz Chatbot initialized.
+[2024-11-16 01:40:29,782] 45 root - INFO - Chat started.
+[2024-11-16 01:40:51,420] 23 root - INFO - Received user input: hello my name is ukasha atif
+[2024-11-16 01:41:36,772] 23 root - INFO - Received user input: i just order a product and now i change my mind what should i do now?
+[2024-11-16 01:42:02,960] 23 root - INFO - Received user input: i want to cancel the order
