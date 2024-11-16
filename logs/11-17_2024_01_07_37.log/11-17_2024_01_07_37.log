@@ -1,0 +1,3 @@
+[2024-11-17 01:07:38,039] 18 root - INFO - Successfully initialized the model: llama3.2
+[2024-11-17 01:08:11,598] 53 root - INFO - User input: hi, Response: Hello! Welcome to Daraz.pk's customer support chat. How can I assist you today? Are you looking for something specific on our platform or do you have an issue with your order or account?
+[2024-11-17 01:08:11,599] 76 root - INFO - Response sent: Hello! Welcome to Daraz.pk's customer support chat. How can I assist you today? Are you looking for something specific on our platform or do you have an issue with your order or account?
