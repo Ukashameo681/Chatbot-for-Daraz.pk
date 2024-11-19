@@ -1,0 +1,11 @@
+[2024-11-17 20:56:00,686] 18 root - INFO - Successfully initialized the model: llama3.2
+[2024-11-17 20:56:00,707] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-11-17 20:56:00,714] 97 werkzeug - INFO -  * Debugger PIN: 104-731-527
+[2024-11-17 20:56:46,521] 97 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2024 20:56:46] "GET / HTTP/1.1" 200 -
+[2024-11-17 20:56:46,774] 97 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2024 20:56:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-11-17 20:57:14,365] 53 root - INFO - User input: hi, Response: Hello! Welcome to Daraz.pk's customer support. How can I assist you today? Are you looking for something specific or have an issue with your order or account?
+[2024-11-17 20:57:14,365] 97 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2024 20:57:14] "POST /chat HTTP/1.1" 200 -
+[2024-11-17 20:59:55,946] 53 root - INFO - User input: what is this, Response: Hello! Welcome to Daraz.pk's customer support. It seems like you might not be familiar with our platform. We're Pakistan's leading e-commerce website, offering a wide range of products across various categories. If you have any questions or need help finding something, feel free to ask!
+
+Can I assist you with something specific, such as product recommendations, order tracking, or maybe you're looking for information on how to use our platform?
+[2024-11-17 20:59:55,947] 97 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2024 20:59:55] "POST /chat HTTP/1.1" 200 -

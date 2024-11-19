@@ -1,0 +1,11 @@
+[2024-11-19 23:30:21,763] 18 root - INFO - Successfully initialized the model: llama3.2
+[2024-11-19 23:30:21,794] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-11-19 23:30:21,803] 97 werkzeug - INFO -  * Debugger PIN: 104-731-527
+[2024-11-19 23:30:29,772] 97 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2024 23:30:29] "GET / HTTP/1.1" 200 -
+[2024-11-19 23:30:30,030] 97 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2024 23:30:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-11-19 23:30:53,984] 53 root - INFO - User input: hi, Response: Hello! Welcome to Daraz.pk, Pakistan's leading e-commerce platform. How can I assist you today? Are you looking for something specific or need help with a particular issue?
+[2024-11-19 23:30:53,988] 97 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2024 23:30:53] "POST /chat HTTP/1.1" 200 -
+[2024-11-19 23:32:04,988] 53 root - INFO - User input: i just ordered product i wnat to cancel this cna you help me, Response: Hello! Sorry to hear that you want to cancel your order. Can you please provide me with your Order Number so I can look into this for you? Additionally, could you tell me a little bit more about why you'd like to cancel the order? Was it due to a problem with the product or something else?
+
+(Also, just a heads up: if you're still within the 24-hour return and refund window, we may be able to assist you with a full refund. Please let me know if that's possible for your situation.)
+[2024-11-19 23:32:04,988] 97 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2024 23:32:04] "POST /chat HTTP/1.1" 200 -
